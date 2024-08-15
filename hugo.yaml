@@ -90,6 +90,10 @@ languages:
             automatisch einen Zeitplan, eine Rednerliste und mehr. Es lässt sich
             zudem gut mit [Eventbrite](https://www.eventbrite.com) integrieren,
             um Tickets zu verkaufen.
+
+taxonomies:
+  _merge: deep
+
 params:
   # Open Graph / X (Twitter) Cards
   images:
