@@ -14,11 +14,10 @@ See it in action on https://medialesson.github.io/hugo-theme-event-demo.
 ### Installation
 
 1. Open a shell of your choice.
-2. Clone this repository with SSH and submodules.
+2. Clone this repository with submodules.
     ```shell
-    git clone --recurse-submodules git@github.com:medialesson/hugo-theme-event-demo.git
+    git clone --recurse-submodules https://github.com/medialesson/hugo-theme-event-demo.git
     ```
-    **WARNING**: As the submodule requires authentication, you must clone the repository with SSH.
 3. Switch to the repository directory.
 4. Run npm install to install the required dependencies.
     ```shell
