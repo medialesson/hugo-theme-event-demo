@@ -4,6 +4,9 @@ A demo event website built with the [Hugo Event Theme](https://github.com/medial
 
 See it in action on https://medialesson.github.io/hugo-theme-event-demo.
 
+You can use this repository as template for your new project.
+[Click here to create a new repository.](https://github.com/new?template_name=hugo-theme-event-demo&template_owner=medialesson)
+
 ## Getting started
 
 ### Prerequisites
