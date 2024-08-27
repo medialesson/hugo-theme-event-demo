@@ -154,14 +154,16 @@ languages:
                 params:
                   description: |
                     Finden Sie heraus, wo die Veranstaltung stattfindet.
-                    Dieser Abschnitt bietet Informationen zum Veranstaltungsort, zu Anfahrtsbeschreibungen und zu nahegelegenen Unterkünften.
+                    Dieser Abschnitt bietet Informationen zum Veranstaltungsort,
+                    zu Anfahrtsbeschreibungen und zu nahegelegenen Unterkünften.
               - identifier: code_of_conduct
                 pageRef: /code-of-conduct
                 weight: 60
                 params:
                   description: |
                     Lesen Sie die Verhaltensregeln für unsere Veranstaltung.
-                    Dieser Abschnitt beschreibt die Erwartungen an das Verhalten der Teilnehmer und die Veranstaltungsrichtlinien.
+                    Dieser Abschnitt beschreibt die Erwartungen an das Verhalten der Teilnehmer
+                    und die Veranstaltungsrichtlinien.
         params:
             # Open Graph / X (Twitter) Cards
             description: |
