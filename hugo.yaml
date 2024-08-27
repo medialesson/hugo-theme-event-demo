@@ -10,42 +10,21 @@ languages:
                 - identifier: about
                   pageRef: /about
                   weight: 10
-                  params:
-                    showAsQuickNavigation: true
-                    description: |
-                      Learn more about our mission, values, and the people behind our organization.
-                      The "About Us" page provides insights into who we are, what we do,
-                      and why we’re passionate about our work.
                 - identifier: sessions
                   pageRef: /sessions
                   weight: 20
                 - identifier: speakers
                   pageRef: /speakers
                   weight: 30
-                  params:
-                    showAsQuickNavigation: true
-                    description: |
-                      Meet our distinguished speakers who will be sharing their expertise.
-                      Learn more about their backgrounds and what they will discuss.
                 - identifier: location
                   pageRef: /location
                   weight: 40
-                  params:
-                    showAsQuickNavigation: true
-                    description: |
-                      Find out where the event will take place.
-                      This section provides details on the venue, directions, and nearby accommodations.
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
                 - identifier: code_of_conduct
                   pageRef: /code-of-conduct
                   weight: 60
-                  params:
-                    showAsQuickNavigation: true
-                    description: |
-                      Read about the code of conduct for our event.
-                      This section outlines the expectations for participant behavior and event policies.
             footer:
                 - identifier: imprint
                   pageRef: /imprint
@@ -53,6 +32,36 @@ languages:
                 - identifier: privacy
                   pageRef: /privacy-policy
                   weight: 20
+            secondary:
+              - identifier: about
+                pageRef: /about
+                weight: 10
+                params:
+                  description: |
+                    Learn more about our mission, values, and the people behind our organization.
+                    The "About Us" page provides insights into who we are, what we do,
+                    and why we’re passionate about our work.
+              - identifier: speakers
+                pageRef: /speakers
+                weight: 30
+                params:
+                  description: |
+                    Meet our distinguished speakers who will be sharing their expertise.
+                    Learn more about their backgrounds and what they will discuss.
+              - identifier: location
+                pageRef: /location
+                weight: 40
+                params:
+                  description: |
+                    Find out where the event will take place.
+                    This section provides details on the venue, directions, and nearby accommodations.
+              - identifier: code_of_conduct
+                pageRef: /code-of-conduct
+                weight: 60
+                params:
+                  description: |
+                    Read about the code of conduct for our event.
+                    This section outlines the expectations for participant behavior and event policies.
         params:
             # Open Graph / X (Twitter) Cards
             description: |
@@ -101,42 +110,21 @@ languages:
               - identifier: about
                 pageRef: /about
                 weight: 10
-                params:
-                  showAsQuickNavigation: true
-                  description: |
-                    Erfahren Sie mehr über unsere Mission, Werte und die Menschen hinter unserer Organisation.
-                    Die Seite „Über uns“ bietet Einblicke, wer wir sind, was wir tun
-                    und warum wir leidenschaftlich an unserer Arbeit interessiert sind.
               - identifier: sessions
                 pageRef: /sessions
                 weight: 20
               - identifier: speakers
                 pageRef: /speakers
                 weight: 30
-                params:
-                  showAsQuickNavigation: true
-                  description: |
-                    Lernen Sie unsere herausragenden Referenten kennen, die ihr Fachwissen mit uns teilen werden.
-                    Erfahren Sie mehr über ihre Hintergründe und was sie besprechen werden.
               - identifier: location
                 pageRef: /location
                 weight: 40
-                params:
-                  showAsQuickNavigation: true
-                  description: |
-                    Finden Sie heraus, wo die Veranstaltung stattfindet.
-                    Dieser Abschnitt bietet Informationen zum Veranstaltungsort, zu Anfahrtsbeschreibungen und zu nahegelegenen Unterkünften.
               - identifier: sponsors
                 pageRef: /sponsors
                 weight: 50
               - identifier: code_of_conduct
                 pageRef: /code-of-conduct
                 weight: 60
-                params:
-                  showAsQuickNavigation: true
-                  description: |
-                    Lesen Sie die Verhaltensregeln für unsere Veranstaltung.
-                    Dieser Abschnitt beschreibt die Erwartungen an das Verhalten der Teilnehmer und die Veranstaltungsrichtlinien.
             footer:
                 - identifier: imprint
                   pageRef: /imprint
@@ -144,6 +132,36 @@ languages:
                 - identifier: privacy
                   pageRef: /privacy-policy
                   weight: 20
+            secondary:
+              - identifier: about
+                pageRef: /about
+                weight: 10
+                params:
+                  description: |
+                    Erfahren Sie mehr über unsere Mission, Werte und die Menschen hinter unserer Organisation.
+                    Die Seite „Über uns“ bietet Einblicke, wer wir sind, was wir tun
+                    und warum wir leidenschaftlich an unserer Arbeit interessiert sind.
+              - identifier: speakers
+                pageRef: /speakers
+                weight: 30
+                params:
+                  description: |
+                    Lernen Sie unsere herausragenden Referenten kennen, die ihr Fachwissen mit uns teilen werden.
+                    Erfahren Sie mehr über ihre Hintergründe und was sie besprechen werden.
+              - identifier: location
+                pageRef: /location
+                weight: 40
+                params:
+                  description: |
+                    Finden Sie heraus, wo die Veranstaltung stattfindet.
+                    Dieser Abschnitt bietet Informationen zum Veranstaltungsort, zu Anfahrtsbeschreibungen und zu nahegelegenen Unterkünften.
+              - identifier: code_of_conduct
+                pageRef: /code-of-conduct
+                weight: 60
+                params:
+                  description: |
+                    Lesen Sie die Verhaltensregeln für unsere Veranstaltung.
+                    Dieser Abschnitt beschreibt die Erwartungen an das Verhalten der Teilnehmer und die Veranstaltungsrichtlinien.
         params:
             # Open Graph / X (Twitter) Cards
             description: |
