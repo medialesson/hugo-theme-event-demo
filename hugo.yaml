@@ -235,9 +235,9 @@ params:
                 facebookUrl: https://www.facebook.com/medialesson/
                 linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
-                logo: logos/medicon-512.jpg
-                titleBackground: images/pexels-caleboquendo-3023317.jpg
-                location: images/habermehlstr.jpg
+                logo: logos/medicon-512.webp
+                titleBackground: images/pexels-caleboquendo-3023317.webp
+                location: images/habermehlstr.webp
             sponsors:
                 - logo: logos/medialesson-logo.svg
                   url: https://www.media-lesson.com/
