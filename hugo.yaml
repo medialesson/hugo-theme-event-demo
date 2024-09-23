@@ -216,6 +216,7 @@ params:
         event:
             sessionizeId: 67poir7q
             title: medicon
+            shortTitle: medicon
             startDate: 2025-01-30
             endDate: 2025-01-31
             address:
